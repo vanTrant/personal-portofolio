@@ -1,0 +1,27 @@
+<svg width="123" height="81" viewBox="0 0 123 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="car">
+<circle id="front-wheel-2" cx="36" cy="64" r="17" fill="#313131"/>
+<circle id="rear-wheel-2" cx="95" cy="64" r="17" fill="#313131"/>
+<g id="body">
+<path id="Rectangle 2" d="M0 40C0 17.9086 17.9086 0 40 0H103C114.046 0 123 8.9543 123 20V57C123 62.5228 118.523 67 113 67H10C4.47715 67 0 62.5228 0 57V40Z" fill="#142960"/>
+<g id="windows">
+<path id="Rectangle 5" d="M12 28C12 16.402 21.402 7 33 7H46V28H12V28Z" fill="#222222"/>
+<path id="Rectangle 6" d="M51 7H102C107.523 7 112 11.4772 112 17V28H51V7Z" fill="#222222"/>
+</g>
+<path id="front-lamp" d="M0 38H10C11.1046 38 12 38.8954 12 40V43C12 44.1046 11.1046 45 10 45H0V38Z" fill="#C49621"/>
+<path id="rear-lamp" d="M112 37C112 35.8954 112.895 35 114 35H123V47H122C116.477 47 112 42.5228 112 37V37Z" fill="#CF4040"/>
+</g>
+<g id="front-wheel">
+<circle id="Ellipse 1" cx="29" cy="64" r="17" fill="#1E1E1E"/>
+<circle id="Ellipse 3" cx="29" cy="64" r="10" fill="#404040"/>
+<rect id="Rectangle 3" x="27" y="54" width="4" height="20" fill="#C4C4C4"/>
+<rect id="Rectangle 4" x="19" y="62" width="20" height="4" fill="#C4C4C4"/>
+</g>
+<g id="rear-wheel">
+<circle id="Ellipse 1_2" cx="88" cy="64" r="17" fill="#1E1E1E"/>
+<circle id="Ellipse 3_2" cx="88" cy="64" r="10" fill="#404040"/>
+<rect id="Rectangle 3_2" x="86" y="54" width="4" height="20" fill="#C4C4C4"/>
+<rect id="Rectangle 4_2" x="78" y="62" width="20" height="4" fill="#C4C4C4"/>
+</g>
+</g>
+</svg>
