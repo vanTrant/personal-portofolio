@@ -1,10 +1,11 @@
 # Personal Portofolio
 
-I create this in order to complete Responsive Web Design Challenge from [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/).
+I create this in order to complete Responsive Web Design Challenge from [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/). This portofolio is created using HTML and pure CSS.
 
 ## Getting started
 
-You can preview the page in [Codepen page](https://codepen.io/vanTrant/pen/mdWZwJz) or in [Github page](https://vantrant.github.io/personal-portofolio/)
+You can preview the page in [Codepen page](https://codepen.io/vanTrant/pen/mdWZwJz) or in [Github page](https://vantrant.github.io/personal-portofolio/).<br /> 
+In this portofolio, my primary purpose is to showcase my ability to create animation in CSS.
 
 ### Prerequisites
 
@@ -22,6 +23,10 @@ You can preview the page in [Codepen page](https://codepen.io/vanTrant/pen/mdWZw
 
 ## Version History
 
+As of update 1.1, I will not improve this portofolio any further because there are so many project assignments in my college.
+
+* 1.1
+    * Improve mobile device responsiveness
 * 1.0
     * Initial release
 
@@ -31,4 +36,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Authors
 
-Riovano - [@riovanop](https://www.instagram.com/riovanop/) - riovano82@gmail.com <br />
+Riovano - [Instagram](https://www.instagram.com/riovanop/) - riovano82@gmail.com <br />

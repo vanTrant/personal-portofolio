@@ -701,8 +701,8 @@ body {
         height: auto;
         padding: 0;
         padding-bottom: 1rem;
-        margin-top: 20%;
-        font-size: 1.4rem;
+        margin-top: 35%;
+        font-size: 1.5rem;
     }
 
     .contact-content {
@@ -712,7 +712,7 @@ body {
         max-width: 100%;
         height: auto;
         padding: 0;
-        margin-bottom: 25%;
+        margin-bottom: 50%;
     }
 
     .contact-content a {
