@@ -4,7 +4,7 @@ I create this in order to complete Responsive Web Design Challenge from [freecod
 
 ## Getting started
 
-You can preview the page in [Codepen page](https://codepen.io/vanTrant/pen/mdWZwJz) or in [Github page](https://vantrant.github.io/personal-portofolio/).<br /> 
+You can preview the page at [Github page](https://vantrant.github.io/personal-portofolio/).<br /> 
 In this portofolio, my primary purpose is to showcase my ability to create animation in CSS.
 
 ### Prerequisites
